@@ -1,0 +1,33 @@
+body {
+  margin-top: 50px;
+  background: #474747;
+}
+
+h2 {
+  color: #ffff00;
+}
+
+.quote {
+  text-align: center;
+}
+
+.character {
+  text-align: right;
+}
+
+.quoteBox {
+  text-align: center;
+  background-color: gray;
+  color: #191919;
+  margin-left: 25%;
+}
+
+.wi {
+  color:  #ffff00;
+  font-size:  150px;
+  margin-top:  50px;
+}
+
+.container-fluid {
+  text-align: center;
+}
